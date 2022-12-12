@@ -39,7 +39,7 @@
   "homepage": "https://github.com/abarkley123/javascript_game#readme",
   "dependencies": {
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mocha": "^7.1.2",
     "nyc": "^15.0.1"
   },
